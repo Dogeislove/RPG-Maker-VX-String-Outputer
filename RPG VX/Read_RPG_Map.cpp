@@ -4,13 +4,7 @@
 //I've improved from my last github..
 
 //Issues: EV (from events) random o's (from events yet again).
-//This should try to read RPG Maker Dialoge. 
-/*
-    If you are reading this, I hope you know why I chose VX..
-    Hint: Challange Video makes me go brr
-
-
-*/
+//This should try to read RPG Maker Dialoge and output it to file.
 
 #include <iostream>
 #include <fstream>
