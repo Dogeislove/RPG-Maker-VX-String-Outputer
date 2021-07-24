@@ -3,7 +3,6 @@
 //Code isn't good at all, haven't programmed in c++ in so long.
 //I've improved from my last github..
 
-//Issues: EV (from events) random o's (from events yet again).
 //This should try to read RPG Maker Dialoge and output it to file.
 
 #include <iostream>
