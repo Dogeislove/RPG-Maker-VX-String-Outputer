@@ -54,7 +54,6 @@ public:
     {
         return Read;
     }
-    //Junk is different from Invalid_char!
     bool Only_Allowed_Characters(char& character) //Is very Slow but hey it works.
     {
         for (auto begin = Dont_Read.begin(); begin != Dont_Read.end(); ++begin)
@@ -108,7 +107,6 @@ private:
     string Read = "";
     bool Read_String; //Is the string reading?
     bool Finished_Reading = true; //is the string done reading?
-    bool Is_Junk; //Get rid of trivial things. 
 };
 
 int main()
