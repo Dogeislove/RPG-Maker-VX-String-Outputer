@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Read_RPG_Map.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Extra_Exceptions.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
